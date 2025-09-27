@@ -18,6 +18,6 @@ public class Main {
 
 
         //Tarea del Grupo #3
-
+        GrupoExpo3.Ejercicio1.ejercicio1();
     }
 }
